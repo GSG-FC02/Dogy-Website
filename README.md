@@ -3,8 +3,8 @@
 
 ## Live Link [Here](https://gsg-fc02.github.io/Eman-Ahd-API/)
 
-## The purpose of this website
-Display different pictures of dogs (entertainment site).
+## The Purpose of this Project 
+*Dogy* is a website to display different pictures of dogs (entertainment website).
 
 ## User Journey
 1. The user opens the website and reads the introduction.
@@ -14,7 +14,7 @@ Display different pictures of dogs (entertainment site).
 ## User Story
 As a dog lover, I enjoy watching pictures of dogs of various kinds, so I want to see different pictures of dogs from anywhere in the world easily.
 
-## The journey to completion the website
+## The Journey to Completion the Project
 - Determine the idea and purpose of the site.
 - Find the appropriate API to use in line with the website's purpose.
 - Determine the general style of the site (font type and colors).
@@ -26,7 +26,7 @@ As a dog lover, I enjoy watching pictures of dogs of various kinds, so I want to
 - Ensure that the website is working properly.
 - Merged the pull requests.
 
-## The way of installation the project to run it locally
+## The Way of Installation the Project to Run it Locally
 ```
 git clone https://github.com/GSG-FC02/Dogy-Website.git
 cd Dogy-Website
