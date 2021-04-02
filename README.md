@@ -14,7 +14,7 @@ Display different pictures of dogs (entertainment site).
 ## User Story
 As a dog lover, I enjoy watching pictures of dogs of various kinds, so I want to see different pictures of dogs from anywhere in the world easily.
 
-## The journey to completion
+## The journey to completion the website
 - Determine the idea and purpose of the site.
 - Find the appropriate API to use in line with the website's purpose.
 - Determine the general style of the site (font type and colors).
