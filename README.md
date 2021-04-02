@@ -1,7 +1,7 @@
 ## Project Name
 #### Dogy Website
 
-## Live Link [Here](https://gsg-fc02.github.io/Eman-Ahd-API/)
+## Live Link [Here](https://gsg-fc02.github.io/Dogy-Website/)
 
 ## The Purpose of this Project 
 *Dogy* is a website to display different pictures of dogs (entertainment website).
