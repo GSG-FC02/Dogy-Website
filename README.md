@@ -38,6 +38,5 @@ go live server
 * CSS
 * JavaScript
 
-## Team Members
+## Developed by:
 * Eman Jaber
-* Ahd
